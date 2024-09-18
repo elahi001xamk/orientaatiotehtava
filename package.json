@@ -1,0 +1,24 @@
+{
+  "name": "orientaatiotehtava",
+  "version": "1.0.0",
+  "description": "Tämä on repository Sovellusohjelmointi 2 -opintojakson orientaatiotehtävän palautukseen.",
+  "main": "index.ts",
+  "scripts": {
+    "start" : "npx nodemon index.ts"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/elahi001xamk/orientaatiotehtava.git)"
+  },
+  "author": "Laura",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^22.5.5",
+    "typescript": "^5.6.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.5",
+    "ts-node": "^10.9.2"
+  }
+}
